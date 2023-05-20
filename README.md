@@ -1,10 +1,10 @@
 # HackerRank_python
-#Solution 01
+# Solution 01
 if __name__ == '__main__':
     print("Hello, World!")
     
     
-#Solution 02
+# Solution 02
 
 import math
 import os
